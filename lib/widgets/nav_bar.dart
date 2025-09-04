@@ -81,7 +81,7 @@ class _NavBarState extends State<NavBar> {
                 left: 10,
                 right: 10,
                 child: ChatBotWidget(
-                  apiKey: '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',
+                  apiKey: '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',
                   onClose: () {
                     setState(() => _showChatBot = false);
                   },
